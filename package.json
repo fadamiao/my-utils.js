@@ -1,0 +1,23 @@
+{
+  "name": "my-utils",
+  "description": "Useful JavaScript functions",
+  "version": "1.0.0",
+  "author": "Fernando A. Damião <me@fadamiao.com>",
+  "license": {
+    "type": "BSD-3-Clause",
+    "url": "https://github.com/fadamiao/my-utils.js/blob/master/LICENSE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadamiao/my-utils.js"
+  },
+  "bugs": {
+    "url": "https://github.com/fadamiao/my-utils.js/issues"
+  },
+  "devDependencies": {
+    "grunt-cli": ">=0.1.9",
+    "grunt": ">=0.4.1",
+    "grunt-contrib-concat": ">=0.3.0",
+    "grunt-contrib-uglify": ">=0.2.4"
+  }
+}
